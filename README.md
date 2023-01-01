@@ -1,3 +1,56 @@
+<div align="center">
+  <h1><a href="https://the-bored-hoomans-app.vercel.app/">The Bored Hoomans App</a></h1>
+  <p>This is a hobby project created with Next.js and deployed on Vercel. You can click the title to go to the web app.</p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/Fynmn/.github-images/blob/main/the_bored_hooman_app_LiveDemo.gif?raw=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <span>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/cat-fact.png" width="450"/>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/suggest-something-to-do.png" width="450"/>
+  </span>
+</div>
+
+<br>
+
+<div align="center">
+  <span>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/generate-quote.png" width="450"/>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/dog-photo.png" width="450"/>
+  </span>
+</div>
+
+<br>
+  
+<div align="center">
+  <span>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/joke.png" width="450"/>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/joke1.png" width="450"/>
+  </span>
+</div>
+
+<br>
+
+<div align="center">
+  <h3> 💡About</h3>
+  <p>This is a hobby project created with Next.js and deployed on Vercel.</p>
+  <p>The following APIs were utilized for this project:</p>
+  <p><a href="https://catfact.ninja/">Cat Fact API</a></p>
+  <p><a href="https://www.boredapi.com/">The Bored API</a></p>
+  <p><a href="https://rapidapi.com/martin.svoboda/api/quotes15">Quotes API</a></p>
+  <p><a href="https://dog.ceo/dog-api/">Dog API</a></p>
+  <p><a href="https://official-joke-api.appspot.com/">Jokes API</a></p>
+</div>
+  
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
