@@ -138,7 +138,7 @@ export default function Home() {
       <Head>
         <title>The Bored Hoomans App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -148,7 +148,7 @@ export default function Home() {
 
         <div className='p-10 text-center'>
           {/* <h1 className='text-center font-extrabold text-3xl xl:text-4xl text-indigo-100'> */}
-          <h1 class="font-extrabold text-3xl xl:text-4xl text-indigo-100 hover:bg-gradient-to-r hover:from-blue-600 hover:via-green-500 hover:to-indigo-400 hover:inline-block hover:text-transparent hover:bg-clip-text transition duration-150">
+          <h1 className="cursor-pointer font-extrabold text-3xl xl:text-4xl text-indigo-100 hover:bg-gradient-to-r hover:from-blue-600 hover:via-green-500 hover:to-indigo-400 hover:inline-block hover:text-transparent hover:bg-clip-text transition duration-150">
             The Bored Hoomans App
           </h1>
         </div>
