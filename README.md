@@ -13,8 +13,8 @@
 
 <div align="center">
   <span>
-      <img src="https://github.com/Fynmn/.github-images/blob/main/cat-fact.png" width="450"/>
-      <img src="https://github.com/Fynmn/.github-images/blob/main/suggest-something-to-do.png" width="450"/>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/cat-fact.png" width="350"/>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/suggest-something-to-do.png" width="350"/>
   </span>
 </div>
 
@@ -22,8 +22,8 @@
 
 <div align="center">
   <span>
-      <img src="https://github.com/Fynmn/.github-images/blob/main/generate-quote.png" width="450"/>
-      <img src="https://github.com/Fynmn/.github-images/blob/main/dog-photo.png" width="450"/>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/generate-quote.png" width="350"/>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/dog-photo.png" width="350"/>
   </span>
 </div>
 
@@ -31,8 +31,8 @@
   
 <div align="center">
   <span>
-      <img src="https://github.com/Fynmn/.github-images/blob/main/joke.png" width="450"/>
-      <img src="https://github.com/Fynmn/.github-images/blob/main/joke1.png" width="450"/>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/joke.png" width="350"/>
+      <img src="https://github.com/Fynmn/.github-images/blob/main/joke1.png" width="350"/>
   </span>
 </div>
 
