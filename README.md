@@ -48,6 +48,8 @@
   <p><a href="https://dog.ceo/dog-api/">Dog API</a></p>
   <p><a href="https://official-joke-api.appspot.com/">Jokes API</a></p>
 </div>
+
+<br>
   
 ---
 
