@@ -16,7 +16,7 @@ export default function LoveCalculator() {
     <>
       {/* <div className="fixed inset-0 flex items-center justify-center"> */}
       <button onClick={() => {}}>
-        <div className="cursor-pointer group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 bg-slate-700 p-8 rounded-xl m-4 active:bg-slate-500 border-4 border-transparent opacity-30">
+        <div className="cursor-pointer group-hover:blur-sm group-hover:scale-[0.85] hover:!scale-[0.85] hover:!blur-sm bg-slate-700 p-8 rounded-xl m-4 active:bg-slate-500 border-4 border-transparent opacity-30 transition ease-out">
           <div className="cursor-pointer h-24 max-h-24 w-24 flex flex-col justify-center items-center text-center space-y-4">
             <h4 className="cursor-pointer text-4xl">😍</h4>
             <h3 className="cursor-pointer text-l font-bold text-indigo-100">
